@@ -6,6 +6,7 @@ Hardware stack that can tracking current maximum element.
     - tt_stack.v: Verilog source code
     - tt_stack_tb.v: Verilog testbench code
     - stack_mem.dat: Simulation data 
+  
   src_code/pics: snapshots of 3 test cases
     - test_push_pop.png: Test push and pop commands with maximum values tracking
     - test_error_pop_empty.png: Test pop command when stack is empty -> error 02
