@@ -1,7 +1,7 @@
 Hardware stack that can tracking current maximum element. 
-## Description:   
+### Description:   
   - The stack was written in Verilog HDL and simulated by Modelsim.
-## File structure:
+### File structure:
   - src_code_20181119/src_code: 3 main files
     - tt_stack.v: Verilog source code
     - tt_stack_tb.v: Verilog testbench code
