@@ -13,5 +13,12 @@ Hardware stack that can tracking current maximum element.
 <figcaption><p align="center"></p></figcaption>
 </figure>
     - test_error_pop_empty.png: Test pop command when stack is empty -> error 02
+<figure>
+<p align="center"><img src="https://github.com/nxthuan512/Hardware-stack-maxium-tracking/blob/master/src_code_20181119/pics/test_error_pop_empty.PNG" alt="hinh1" width="100%"></p>    
+<figcaption><p align="center"></p></figcaption>
+</figure>   
     - test_error_push_full.png: Test push command when stack is full -> error 01
-  
+ <figure>
+<p align="center"><img src="https://github.com/nxthuan512/Hardware-stack-maxium-tracking/blob/master/src_code_20181119/pics/test_error_push_full.PNG" alt="hinh1" width="100%"></p>    
+<figcaption><p align="center"></p></figcaption>
+</figure>    
