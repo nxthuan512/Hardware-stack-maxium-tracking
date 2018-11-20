@@ -9,7 +9,7 @@ Hardware stack that can tracking current maximum element.
   - src_code/pics: snapshots of 3 test cases
     - test_push_pop.png: Test push and pop commands with maximum values tracking
 <figure>
-<p align="center"><img src="https://github.com/nxthuan512/Hardware-stack-maxium-tracking/blob/master/src_code_20181119/pics/test_push_pop.PNG" alt="hinh1" width="80%"></p>    
+<p align="center"><img src="https://github.com/nxthuan512/Hardware-stack-maxium-tracking/blob/master/src_code_20181119/pics/test_push_pop.PNG" alt="hinh1" width="100%"></p>    
 <figcaption><p align="center"></p></figcaption>
 </figure>
     - test_error_pop_empty.png: Test pop command when stack is empty -> error 02
